@@ -8,26 +8,26 @@
 	"compatibility": {
 		"minimum": "10",
 		"verified": "11",
-		"maximum": "11",
+		"maximum": "11"
 	},
 
 	"authors": [
 		{
 			"name": "Niya",
-			"url": "github.com/szyfr",
+			"url": "github.com/szyfr"
 		}
 	],
 
 	"scripts": [
-		"scripts/system-script-1.js",
+		"scripts/system-script-1.js"
 	],
 
 	"esmodules": [
-		"scripts/system-module-1.mjs",
+		"scripts/system-module-1.mjs"
 	],
 
 	"styles": [
-		"scripts/system-styles-1.js",
+		"scripts/system-styles-1.js"
 	],
 
 	"packs": [
@@ -55,7 +55,7 @@
 	"initiative": "1d20",
 	"gridDistance": 10,
 	"gridUnits": "ft",
-	
+
 	"primaryTokenAttribute": "resources.health",
 	"secondaryTokenAttribute": "resources.power",
 
