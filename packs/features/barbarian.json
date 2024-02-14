@@ -1,0 +1,12 @@
+
+{
+	"_id": "",
+	"name": "Barbarian",
+	"type": "feature"
+	"system": {
+		"description": {
+			"value": "<p>Barbarian shit. Ayo.</p>",
+			"chat": ""
+		}
+	}
+}

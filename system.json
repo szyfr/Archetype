@@ -35,13 +35,8 @@
 
 	"packs": [
 		{
-			"name": "monsters",
-			"labels": "My monsters",
-			"type": "Actor"
-		},
-		{
-			"name": "items",
-			"labels": "My items",
+			"name": "features",
+			"labels": "Features",
 			"type": "Item"
 		}
 	],
